@@ -1,1 +1,1 @@
-# webpack-template-resolver-loader
+# webpack-template-resolver
