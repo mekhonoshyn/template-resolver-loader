@@ -1,5 +1,5 @@
 {
-    "name": "webpack-template-resolver-loader",
+    "name": "webpack-template-resolver",
     "version": "1.0.0",
     "description": "",
     "main": "dist/index.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mekhonoshyn/webpack-template-resolver-loader.git"
+        "url": "https://github.com/mekhonoshyn/webpack-template-resolver.git"
     },
     "author": "mekhonoshyn",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/mekhonoshyn/webpack-template-resolver-loader/issues"
+        "url": "https://github.com/mekhonoshyn/webpack-template-resolver/issues"
     },
-    "homepage": "https://github.com/mekhonoshyn/webpack-template-resolver-loader",
+    "homepage": "https://github.com/mekhonoshyn/webpack-template-resolver",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-eslint": "^8.2.2",
